@@ -1,0 +1,1 @@
+<p>Bienvenido {{$name}} a Compuzoft</p>
